@@ -1,0 +1,43 @@
+user_id,name,email,signup_date,country
+1001,Sara Ahmadi,sara.ahmadi@example.com,2026/03/05,Iran
+1002,Reza Karimi,,05-03-2026,IRAN
+1003,Mina Hosseini,mina.h@example.com,2026-03-07,iran
+1004,Daniel Smith,dan.smith@example.com,14/03/2026,United States
+1005,Emily Carter,emily.c@example.com,2026.03.15,united states
+1006,Jin Park,jin.park@example.com,2026/03/16,South Korea
+1007,Yuki Tanaka,,17-03-2026,JAPAN
+1008,Amir Rezaei,amir.r@example.com,2026-03-18,Iran
+1009,Sofia Rossi,sofia.rossi@example.com,19/03/2026,Italy
+1010,Lucas Martin,lucas.m@example.com,2026/03/20,FRANCE
+1011,Noah Wilson,,21-03-2026,United States
+1012,Hana Kim,hana.kim@example.com,2026-03-22,south korea
+1013,Kenji Sato,kenji.s@example.com,23/03/2026,Japan
+1014,Emma Dubois,emma.d@example.com,2026.03.24,France
+1015,Ali Mohammadi,ali.m@example.com,2026/03/25, IRAN 
+1016,Giulia Bianchi,,26-03-2026,italy
+1017,Oliver Brown,oliver.b@example.com,2026-03-27,united states
+1018,Seo-yeon Lee,seoyeon.lee@example.com,28/03/2026,South Korea
+1019,Akira Ito,akira.ito@example.com,2026/03/29,japan
+1020,Camille Bernard,camille.b@example.com,30-03-2026,France
+1021,Nima Salehi,nima.s@example.com,2026-04-01,iran
+1022,Marco Conti,marco.c@example.com,02/04/2026,Italy
+1023,Maya Johnson,,2026/04/03,USA
+1024,Min-jun Choi,minjun.c@example.com,04-04-2026,KOREA
+1025,Haruto Yamada,haruto.y@example.com,2026-04-05,Japan
+1026,Lea Moreau,lea.m@example.com,06/04/2026,france
+1027,Arman Ebrahimi,arman.e@example.com,2026.04.07,Iran
+1028,Isabella Romano,isabella.r@example.com,2026/04/08,ITALY
+1029,Ethan Miller,ethan.m@example.com,09-04-2026,United States
+1030,Ji-woo Han,,2026-04-10,South Korea
+1001,Sara Ahmadi,sara.ahmadi@example.com,2026/03/05,Iran
+1004,Daniel Smith,dan.smith@example.com,14/03/2026,UNITED STATES
+1007,Yuki Tanaka,yuki.tanaka@example.com,2026-03-17,Japan
+1015,Ali Mohammadi,ali.m@example.com,25-03-2026,Iran
+1020,Camille Bernard,camille.b@example.com,30-03-2026,FRANCE
+1023,Maya Johnson,maya.j@example.com,2026-04-03,United States
+1028,Isabella Romano,isabella.r@example.com,2026/04/08,Italy
+1009,Sofia Rossi,sofia.rossi@example.com,19/03/2026,Italy
+1012,Hana Kim,hana.kim@example.com,2026-03-22,South Korea
+1002,Reza Karimi,,2026-03-05,Iran
+1031,Alex Chen,alex.chen@example.com,2026/04/11,CANADA
+1032,Fatemeh Nazari,fatemeh.n@example.com,12-04-2026, iran

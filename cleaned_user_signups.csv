@@ -1,0 +1,33 @@
+user_id,name,email,signup_date,country
+1001,Sara Ahmadi,sara.ahmadi@example.com,2026-03-05,Iran
+1002,Reza Karimi,,2026-03-05,Iran
+1003,Mina Hosseini,mina.h@example.com,2026-03-07,Iran
+1004,Daniel Smith,dan.smith@example.com,2026-03-14,United States
+1005,Emily Carter,emily.c@example.com,2026-03-15,United States
+1006,Jin Park,jin.park@example.com,2026-03-16,South Korea
+1008,Amir Rezaei,amir.r@example.com,2026-03-18,Iran
+1009,Sofia Rossi,sofia.rossi@example.com,2026-03-19,Italy
+1010,Lucas Martin,lucas.m@example.com,2026-03-20,France
+1011,Noah Wilson,,2026-03-21,United States
+1013,Kenji Sato,kenji.s@example.com,2026-03-23,Japan
+1014,Emma Dubois,emma.d@example.com,2026-03-24,France
+1015,Ali Mohammadi,ali.m@example.com,2026-03-25,Iran
+1016,Giulia Bianchi,,2026-03-26,Italy
+1017,Oliver Brown,oliver.b@example.com,2026-03-27,United States
+1018,Seo-yeon Lee,seoyeon.lee@example.com,2026-03-28,South Korea
+1019,Akira Ito,akira.ito@example.com,2026-03-29,Japan
+1020,Camille Bernard,camille.b@example.com,2026-03-30,France
+1021,Nima Salehi,nima.s@example.com,2026-04-01,Iran
+1022,Marco Conti,marco.c@example.com,2026-04-02,Italy
+1024,Min-jun Choi,minjun.c@example.com,2026-04-04,South Korea
+1025,Haruto Yamada,haruto.y@example.com,2026-04-05,Japan
+1026,Lea Moreau,lea.m@example.com,2026-04-06,France
+1027,Arman Ebrahimi,arman.e@example.com,2026-04-07,Iran
+1029,Ethan Miller,ethan.m@example.com,2026-04-09,United States
+1030,Ji-woo Han,,2026-04-10,South Korea
+1007,Yuki Tanaka,yuki.tanaka@example.com,2026-03-17,Japan
+1023,Maya Johnson,maya.j@example.com,2026-04-03,United States
+1028,Isabella Romano,isabella.r@example.com,2026-04-08,Italy
+1012,Hana Kim,hana.kim@example.com,2026-03-22,South Korea
+1031,Alex Chen,alex.chen@example.com,2026-04-11,Canada
+1032,Fatemeh Nazari,fatemeh.n@example.com,2026-04-12,Iran
